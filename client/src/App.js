@@ -4,7 +4,6 @@ import Axios from 'axios';
 import ListadoPelis from './components/listadoPelis'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import { get } from 'mongoose';
 
 
 function App() {
